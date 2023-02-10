@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Order App</string>
+    <string name="find_your_food">find your food</string>
+    <string name="order_and_eat">Order and Eat</string>
+    <string name="hi_pop">Hi pop</string>
+    <string name="categories">Categories</string>
+    <string name="order_now">Order now</string>
+    <string name="popular">Popular</string>
+    <string name="home">Home</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
